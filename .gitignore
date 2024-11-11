@@ -1,3 +1,6 @@
 rp2040_template-backups/
 *.lck
 _autosave-untitled.kicad_sch
+fabrication-toolkit-options.json
+fp-info-cache
+production/backups
